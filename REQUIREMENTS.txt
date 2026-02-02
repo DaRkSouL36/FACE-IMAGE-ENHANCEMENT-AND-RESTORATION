@@ -1,4 +1,4 @@
---EXTRA-INDEX-URL HTTPS://DOWNLOAD.PYTORCH.ORG/WHL/CPU
+--extra-index-url https://download.pytorch.org/whl/cpu
 ABSL-PY==2.4.0
 ADDICT==2.4.0
 ASTTOKENS==3.0.1
